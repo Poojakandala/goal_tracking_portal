@@ -33,8 +33,8 @@ The system leverages **Firebase Security Rules** to enforce data integrity at th
 To facilitate thorough testing by the judging panel, we have provided a pre-configured **Manager Account** to showcase the administrative dashboard, team metrics, and cross-user data visibility.
 
 > ### 🔐 Judging Credentials
-> * **Email:** `manager.test@goalsync.app`
-> * **Password:** `Hackathon2026!Password`
+> * **Email:** `manager@goal.com`
+> * **Password:** `manager`
 
 ### 🎯 Key Areas to Verify:
 1. **Team Overview Dashboard:** View the aggregated progress of all employees under this manager.
